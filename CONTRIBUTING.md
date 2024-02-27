@@ -9,11 +9,11 @@ The ORCID Registry from its start has been imagined, defined, and developed by m
 
 * **Feature requests should be made in the iDeas Forum**
 
-    Search the [iDeas Forum](https://support.orcid.org/hc/en-us/community/topics) to see if your idea has already been suggested. If it has, you can vote and comment to show your support. If not, you can add a new idea.
+    Search the [iDeas Forum](https://community.orcid.org/latest) to see if your idea has already been suggested. If it has, you can vote and comment to show your support. If not, you can add a new idea.
 
 * **Bug reports should be made in the iDeas Forum or directly to the ORCID team**
 
-    Report the bug to our support team for investigation; once confirmed, we add it to the Bugs board to be addressed. You can report the bug by posting in the [iDeas Forum](https://support.orcid.org/hc/en-us/community/topics) or by submitting a ticket via [our webform](https://support.orcid.org/).
+    Report the bug to our support team for investigation; once confirmed, we add it to the Bugs board to be addressed. You can report the bug by posting in the [iDeas Forum](https://community.orcid.org/latest) or by submitting a ticket via [our webform](https://support.orcid.org/).
     
 * **Registry translations should be made in Transifex**
 
